@@ -1,0 +1,6 @@
++ "Dian" 
++ b = "rama"
++ c = 20;
++ d = "Single"
++
++ console.log("Nama Saya", a+b , "Usia", c, "tahun", "Status", d);
